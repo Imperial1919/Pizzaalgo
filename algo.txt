@@ -1,0 +1,5 @@
+1. decide place to order from
+2. choose pizza type
+3. call place
+4. wait for pizza
+5. accept delivery
