@@ -1,5 +1,6 @@
 1. decide place to order from
+1A: determine if you have any coupons or discouts on hand.
 2. choose pizza type
 3. call place
 4. wait for pizza
-5. accept delivery
+5. accept delivery 
